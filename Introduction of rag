@@ -1,6 +1,0 @@
-Introduction to Retrieval-Augmented Generation (RAG)
-What is RAG?
-
-Retrieval-Augmented Generation (RAG) is an AI technique that improves the responses of Large Language Models (LLMs) by retrieving relevant information from external knowledge sources before generating an answer.
-
-Instead of relying only on the knowledge stored during training, the model first searches for relevant documents and then uses those documents to generate a more accurate and up-to-date response.
